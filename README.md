@@ -3,4 +3,4 @@ PIPs
 
 ## Image
 
-![alt text](https://github.com/cmosongo/Perceptually-Important-Points/blob/main/PIPs.png?raw=true)
+![alt text](https://github.com/cmosongo/Perceptually-Important-Points/blob/main/images/PIPs.png?raw=true)

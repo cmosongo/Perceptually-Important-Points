@@ -4,7 +4,7 @@ PIP is a method of reducing the dimensionality of timeseries data, and significa
 
 ## Image
 ### Perceptually Important Points
-![Perceptually Important Points](https://github.com/cmosongo/Perceptually-Important-Points/blob/main/images/PIPs.png?raw=true)
+![Perceptually Important Points](https://github.com/cmosongo/Perceptually-Important-Points/blob/main/images/PIPs.gif)
 
 ### Fractal Dimentianality
-![Fractal Dimentianality](https://github.com/cmosongo/Perceptually-Important-Points/blob/main/images/fractal_dimensionality.png?raw=true)
+![Fractal Dimentianality](https://github.com/cmosongo/Perceptually-Important-Points/blob/main/images/fractal_dimension.png)

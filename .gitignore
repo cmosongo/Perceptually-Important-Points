@@ -1,6 +1,9 @@
 # data
 data/
 
+# unecessary
+commit_msg.txt
+
 # Jupyter Notebook
 .ipynb_checkpoints
 
